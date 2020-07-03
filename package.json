@@ -1,0 +1,17 @@
+{
+  "name": "bubusisness_test_abhishek_singh",
+  "version": "1.0.0",
+  "description": "rest api for books on mongodb ",
+  "main": "index.js",
+  "scripts": {
+    "server": "nodemon index"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "mongoose": "^5.9.21",
+    "nodemon": "^2.0.4"
+  }
+}
